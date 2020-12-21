@@ -1,9 +1,9 @@
 #include <stdio.h>
-#include "add.h"
+#include "stack.h"
 
 int main() {
-  printf("hello!\n");
-  printf("%d\n", add(1, 2));
+   printf("hello!\n");
+ 
 
   return 0;
 }
